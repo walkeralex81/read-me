@@ -6,4 +6,5 @@ This is my reading notes for the full stack coding bootcamp where I will become 
 My growth mindset is to prepare to fail
 ### This is my Github
 https://github.com/walkeralex81
+theme: slate
 
