@@ -1,4 +1,4 @@
-# reading-notes
+#reading-notes
 ## My name is Alex 
 I like music and art and building things
 This is my reading notes for the full stack coding bootcamp where I will become a coding wizzard
